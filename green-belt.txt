@@ -24,28 +24,33 @@ present Parliament assembled, and by the authority of the same, as follows:
     (d) Tram stop
 
 **2 Removal of Green Belt restrictions**
-(1) Green Belt restrictions on the construction of residential and commercial
+(1) Ordinances restricting construction of residential and commercial
     buildings shall be lifted on agricultural land within transit zones.
-(2) The Department for Environment, Food, and Rural Affairs (henceforth
-    referred to as DEFRA), shall convene a panel of qualified experts
-    (henceforth referred to as "the panel") to determine which areas within the
-    transit zones can be considered to be agricultural land and thus subject to
-    removal of Green Belt restrictions.
-(3) The DEFRA secretary shall take the findings of the panel and issue a public
-    notice of which lands are to have Green Belt restrictions removed.
+(2) Upon passage of this law, the Secretary of State shall undertake a survey
+    of all existing transit zones and determine which land within the transit
+    zones are agricultural and thus will have restrictions lifted by consulting
+    a panel of experts.
+(3) Upon the completion of a new transit stop, the Secretary shall undertake
+    a survey of its corresponding transit zone, consulting a panel of experts,
+    and determine which areas in the new transit zone shall have restrictions
+    lifted.
+(4) Upon completion of the initial survey, the Secretary of State shall make
+    public a map of areas for which restrictions have been lifted.
+(5) The Secretary shall update the map with further areas where restrictions
+    have been lifted upon the completion of subsequent surveys.
 
 **3 Qualifications and Appointment of Members of the Panel**
-(1) The experts selected for the panel must hold Doctor of Philosophy degrees
-    in ecology and have work experience in that field.
-(2) The DEFRA secretary shall have discretion to determine how many experts
-    are needed for the panel to promptly conclude its work.
+(1) The experts selected for the panel which will survey the transit zone 
+    must hold Doctor of Philosophy degrees in ecology and have work experience
+    in that field.
+(2) The Secretary shall have discretion to determine how many experts
+    are needed for the panel to promptly complete its work.
 (3) The members of the panel must first be sourced from the scientific staff
-    currently employed by the Environment Agency.
-(4) If the DEFRA secretary determines that they are unable to source a
-    sufficient number of experts internally, DEFRA may hire outside experts
+    currently employed by the civil service.
+(4) If the Secretary determines that they are unable to source a
+    sufficient number of experts internally, they may hire outside experts
     for the task.
-(5) Outside experts hired by DEFRA for the panel shall be compensated at
-    Staff Grade 4.
-(6) Experts hired from within DEFRA shall be compensated at their previous grade
-    if the previous grade was Staff Grade 4 or higher. They shall be compensated
-    at Staff Grade 4 if their previous grade was lower.
+(5) Outside experts hired for the panel shall be compensated at Staff Grade 4.
+(6) Experts hired from within the civil service shall be compensated at their
+    previous grade if the previous grade was Staff Grade 4 or higher. They shall
+    be compensated at Staff Grade 4 if their previous grade was lower.
