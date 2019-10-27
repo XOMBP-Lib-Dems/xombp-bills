@@ -31,4 +31,8 @@ present Parliament assembled, and by the authority of the same, as follows:
     electrical equivalents by the year 2030.
     (a) After January 1st, 2030, private owners of buildings that still use
         natural gas for heating or cooking (with the exception of commercial
-        kitchens) must pay a fine of £1000 per building floor.
+        kitchens) must pay a fine of £100 per square meter of floor space per
+        year.
+    (b) This fine shall increase by £20 per square meter of floor space every
+        year until 2050, at which point the fine will stay at £500 per
+        square meter of floor space per year.
