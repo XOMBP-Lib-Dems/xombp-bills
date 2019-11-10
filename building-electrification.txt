@@ -36,3 +36,9 @@ present Parliament assembled, and by the authority of the same, as follows:
     (b) This fine shall increase by £20 per square meter of floor space every
         year until 2050, at which point the fine will stay at £500 per
         square meter of floor space per year.
+
+**3 Short title, commencement and extent**
+
+(1) This Act may be cited as the Building Electrification Act 2019
+(2) The Act comes into force upon receiving Royal Assent
+(3) This Act extends to the entire United Kingdom
